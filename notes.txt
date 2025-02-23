@@ -1,0 +1,18 @@
+Speech to text ai models
+
+only considering open source free models
+
+Factors to consider:
+-average word error rate
+-word per minute
+
+1)whisper
+
+-different versions
+-large and medium
+
+2)wav2vec
+
+3)kaldi
+
+4)speechbrain (lot of community involvement so need to choose the best one)
