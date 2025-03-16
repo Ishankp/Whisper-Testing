@@ -5,7 +5,7 @@
    🔸 WPM (Words Per Minute): 154.84
    🔸 Audio Duration: 3.49 seconds
    🔸 Word Count: 9
-   🔸 CPU Usage: Before: 3.50% | After: 9.00%
-   🔸 Memory Usage: Before: 774.57 MB | After: 871.46 MB
-   🔸 Processing Time: 4.21 seconds
+   🔸 CPU Usage: Before: 14.10% | After: 12.40%
+   🔸 Memory Usage: Before: 759.97 MB | After: 833.57 MB
+   🔸 Processing Time: 5.67 seconds
 ==================================================
