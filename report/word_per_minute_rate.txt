@@ -1,1 +1,0 @@
-audio.mp3: WPM=154.84, Duration=3.49s, Word Count=9
