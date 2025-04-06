@@ -17,6 +17,9 @@ os.makedirs(report_folder, exist_ok=True)
 # Combined report file
 combined_report_file = os.path.join(report_folder, "combined_performance_report.txt")
 
+#Function to perform external audio preprocessing
+def audio_preprocess ()
+
 # Function to calculate WPE (Word Per Error Rate)
 def calculate_wpe(transcription, ground_truth):
     distance = Levenshtein.distance(transcription.lower(), ground_truth.lower())  # Case-insensitive
@@ -55,6 +58,8 @@ def process_audio_files():
                 cpu_before, mem_before = get_resource_usage()
                 start_time = time.time()
 
+                # Perform external audio preprocessing
+
                 # Transcribe the audio file using Whisper
                 result = model.transcribe(audio_path)
                 transcription = result["text"]
@@ -65,7 +70,9 @@ def process_audio_files():
                 elapsed_time = end_time - start_time
 
                 # Ground truth file path
-                ground_truth_file = os.path.join(audio_folder, f"{filename}.txt")
+                ground_truth_folder = "audio_text"  # Define the correct folder for ground truth files
+                ground_truth_file = os.path.join(ground_truth_folder, f"{filename}.txt")  # Look for the file in the correct folder
+
 
                 # Calculate WPE if ground truth exists
                 if os.path.exists(ground_truth_file):

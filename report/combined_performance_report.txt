@@ -1,11 +1,11 @@
 🔹 Combined Performance Report 🔹
 ==================================================
 🔹 audio.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+   🔸 WPE (Word Per Error Rate): 0.1111111111111111
    🔸 WPM (Words Per Minute): 154.84
    🔸 Audio Duration: 3.49 seconds
    🔸 Word Count: 9
-   🔸 CPU Usage: Before: 14.10% | After: 12.40%
-   🔸 Memory Usage: Before: 759.97 MB | After: 833.57 MB
+   🔸 CPU Usage: Before: 4.00% | After: 4.50%
+   🔸 Memory Usage: Before: 769.03 MB | After: 848.62 MB
    🔸 Processing Time: 5.67 seconds
 ==================================================

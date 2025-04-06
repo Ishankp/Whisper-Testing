@@ -2,4 +2,4 @@ Transcription:
  Hi there, this is your text to MP3 voice.
 
 WPM: 154.84
-WPE: N/A
+WPE: 0.1111111111111111
