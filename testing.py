@@ -18,7 +18,7 @@ os.makedirs(report_folder, exist_ok=True)
 combined_report_file = os.path.join(report_folder, "combined_performance_report.txt")
 
 #Function to perform external audio preprocessing
-def audio_preprocess ()
+##def audio_preprocess ():
 
 # Function to calculate WPE (Word Per Error Rate)
 def calculate_wpe(transcription, ground_truth):
