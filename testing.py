@@ -9,6 +9,9 @@ import numpy as np
 import soundfile as sf
 from pydub import AudioSegment
 import tempfile
+import warnings
+warnings.filterwarnings("ignore", message="FP16 is not supported on CPU; using FP32 instead")
+
 
 # Folders
 audio_folder = "audio_folder"
