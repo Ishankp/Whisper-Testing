@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, how did your relationships with military officials and government leaders evolved from the Manhattan Project to the post-war period and what were the major conflicts that arose?
+
+WPM: 181.45
+WPE: 0.10714285714285714
+Preprocessing Time: 0.30s
+Transcription Time: 3.39s
+Total Processing Time: 3.69s

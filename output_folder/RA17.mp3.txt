@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, what ethical dilemmas did you struggle with while working on an atomic bomb and how did you personally reconcile your role in its development?
+
+WPM: 192.11
+WPE: 0.2
+Preprocessing Time: 0.28s
+Transcription Time: 3.33s
+Total Processing Time: 3.62s

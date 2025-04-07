@@ -1,0 +1,8 @@
+Transcription:
+ Hi there, this is your text to MP3 voice.
+
+WPM: 154.84
+WPE: 0.1111111111111111
+Preprocessing Time: 0.25s
+Transcription Time: 2.92s
+Total Processing Time: 3.17s

@@ -1,0 +1,8 @@
+Transcription:
+ Oppo primer, why did you lose your security clearance?
+
+WPM: 174.57
+WPE: 0.625
+Preprocessing Time: 0.25s
+Transcription Time: 2.91s
+Total Processing Time: 3.15s

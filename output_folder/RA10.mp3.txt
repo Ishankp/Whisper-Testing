@@ -1,0 +1,8 @@
+Transcription:
+ Open Hyman how did you spend your final years?
+
+WPM: 139.08
+WPE: 1.0
+Preprocessing Time: 0.33s
+Transcription Time: 2.92s
+Total Processing Time: 3.25s

@@ -1,0 +1,8 @@
+Transcription:
+ Open Hymer, a dirty new security, ailing, whatever the key arguments made against you and how did that experience shape your reputation and legacy.
+
+WPM: 154.82
+WPE: 1.0869565217391304
+Preprocessing Time: 0.30s
+Transcription Time: 3.36s
+Total Processing Time: 3.66s

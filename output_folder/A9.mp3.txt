@@ -1,5 +1,5 @@
 Transcription:
- Oppenheimer, did you ever regret your role in developing the top bomb?
+ Oppenheimer, did you ever regret your role in developing the Atomic Bomb?
 
 WPM: 177.63
-WPE: N/A
+WPE: 0.08333333333333333

@@ -1,0 +1,8 @@
+Transcription:
+ Open Hyman, how do you feel about the way you've imported it in literature, film and popular culture? Do you think they have accurately captured your contributions and moral struggles?
+
+WPM: 176.52
+WPE: 0.75
+Preprocessing Time: 0.30s
+Transcription Time: 3.50s
+Total Processing Time: 3.81s

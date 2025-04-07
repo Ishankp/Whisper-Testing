@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, how did your political affiliations impact your career?
+
+WPM: 147.17
+WPE: 0.1111111111111111
+Preprocessing Time: 0.25s
+Transcription Time: 3.00s
+Total Processing Time: 3.25s

@@ -1,5 +1,5 @@
 Transcription:
- Oppoheimer, we'll win through your mind after the first atomic bomb test.
+ Oppoheimer will win through your mind after the first atomic bomb test.
 
 WPM: 178.57
-WPE: N/A
+WPE: 0.8333333333333334

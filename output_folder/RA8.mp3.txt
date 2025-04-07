@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, what awards and recommendations did you receive in your lifetime?
+
+WPM: 160.30
+WPE: 0.5454545454545454
+Preprocessing Time: 0.28s
+Transcription Time: 3.01s
+Total Processing Time: 3.28s

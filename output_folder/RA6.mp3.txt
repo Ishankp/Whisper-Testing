@@ -1,0 +1,8 @@
+Transcription:
+ Oppoheimer will win through your mind after the first atomic bomb test.
+
+WPM: 178.57
+WPE: 0.8333333333333334
+Preprocessing Time: 0.26s
+Transcription Time: 2.99s
+Total Processing Time: 3.25s

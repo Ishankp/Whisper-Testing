@@ -1,0 +1,8 @@
+Transcription:
+ Open HEMA, after the security clientele's were revoked, how did you spend the rest of your life and how did you continue contributing to the scientific community?
+
+WPM: 184.31
+WPE: 0.8461538461538461
+Preprocessing Time: 0.29s
+Transcription Time: 3.40s
+Total Processing Time: 3.69s

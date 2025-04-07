@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, what was your educational journey like?
+
+WPM: 120.78
+WPE: 0.14285714285714285
+Preprocessing Time: 0.25s
+Transcription Time: 2.92s
+Total Processing Time: 3.17s

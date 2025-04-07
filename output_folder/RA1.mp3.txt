@@ -1,0 +1,8 @@
+Transcription:
+ Up in Hyler, what was your role in the Manhattan Project?
+
+WPM: 116.75
+WPE: 0.8888888888888888
+Preprocessing Time: 0.27s
+Transcription Time: 3.00s
+Total Processing Time: 3.27s

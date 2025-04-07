@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, did you ever regret your role in developing the atomic bomb?
+
+WPM: 177.63
+WPE: 0.08333333333333333
+Preprocessing Time: 0.28s
+Transcription Time: 3.01s
+Total Processing Time: 3.29s

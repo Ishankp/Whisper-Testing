@@ -1,236 +1,524 @@
 🔹 Combined Performance Report 🔹
 ==================================================
-🔹 A2.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A2.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.14285714285714285
    🔸 WPM (Words Per Minute): 139.63
    🔸 Audio Duration: 3.01 seconds
    🔸 Word Count: 7
-   🔸 CPU Usage: Before: 4.00% | After: 10.10%
-   🔸 Memory Usage: Before: 830.29 MB | After: 1000.78 MB
-   🔸 Processing Time: 5.41 seconds
+   🔸 Preprocessing Time: 0.25 seconds
+   🔸 Transcription Time: 3.15 seconds
+   🔸 Total Processing Time: 3.39 seconds
+   🔸 CPU Usage: Before: 1.00% | After: 6.50%
+   🔸 Memory Usage: Before: 830.32 MB | After: 933.11 MB
 ==================================================
-🔹 A18.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 167.63
+🔹 A18.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.24
+   🔸 WPM (Words Per Minute): 161.42
    🔸 Audio Duration: 9.66 seconds
-   🔸 Word Count: 27
-   🔸 CPU Usage: Before: 10.90% | After: 13.00%
-   🔸 Memory Usage: Before: 1000.78 MB | After: 1044.50 MB
-   🔸 Processing Time: 4.66 seconds
-==================================================
-🔹 A16.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 166.61
-   🔸 Audio Duration: 9.00 seconds
-   🔸 Word Count: 25
-   🔸 CPU Usage: Before: 3.50% | After: 6.60%
-   🔸 Memory Usage: Before: 1044.50 MB | After: 1041.65 MB
-   🔸 Processing Time: 4.63 seconds
-==================================================
-🔹 A21.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 168.49
-   🔸 Audio Duration: 9.26 seconds
    🔸 Word Count: 26
-   🔸 CPU Usage: Before: 7.50% | After: 1.50%
-   🔸 Memory Usage: Before: 1041.65 MB | After: 1047.54 MB
-   🔸 Processing Time: 4.56 seconds
+   🔸 Preprocessing Time: 0.31 seconds
+   🔸 Transcription Time: 3.34 seconds
+   🔸 Total Processing Time: 3.65 seconds
+   🔸 CPU Usage: Before: 3.00% | After: 1.50%
+   🔸 Memory Usage: Before: 962.61 MB | After: 968.71 MB
 ==================================================
-🔹 A12.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 103.53
+🔹 A16.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.25
+   🔸 WPM (Words Per Minute): 179.95
+   🔸 Audio Duration: 9.00 seconds
+   🔸 Word Count: 27
+   🔸 Preprocessing Time: 0.29 seconds
+   🔸 Transcription Time: 3.45 seconds
+   🔸 Total Processing Time: 3.74 seconds
+   🔸 CPU Usage: Before: 7.00% | After: 1.00%
+   🔸 Memory Usage: Before: 968.83 MB | After: 954.22 MB
+==================================================
+🔹 A21.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.10714285714285714
+   🔸 WPM (Words Per Minute): 181.45
+   🔸 Audio Duration: 9.26 seconds
+   🔸 Word Count: 28
+   🔸 Preprocessing Time: 0.30 seconds
+   🔸 Transcription Time: 3.39 seconds
+   🔸 Total Processing Time: 3.69 seconds
+   🔸 CPU Usage: Before: 9.00% | After: 8.00%
+   🔸 Memory Usage: Before: 954.22 MB | After: 954.24 MB
+==================================================
+🔹 A12.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.14285714285714285
+   🔸 WPM (Words Per Minute): 120.78
    🔸 Audio Duration: 3.48 seconds
-   🔸 Word Count: 6
-   🔸 CPU Usage: Before: 9.00% | After: 10.50%
-   🔸 Memory Usage: Before: 1047.54 MB | After: 1059.29 MB
-   🔸 Processing Time: 4.01 seconds
+   🔸 Word Count: 7
+   🔸 Preprocessing Time: 0.25 seconds
+   🔸 Transcription Time: 2.92 seconds
+   🔸 Total Processing Time: 3.17 seconds
+   🔸 CPU Usage: Before: 6.50% | After: 2.50%
+   🔸 Memory Usage: Before: 954.24 MB | After: 994.99 MB
 ==================================================
-🔹 A11.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A11.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.3
    🔸 WPM (Words Per Minute): 158.90
    🔸 Audio Duration: 3.78 seconds
    🔸 Word Count: 10
-   🔸 CPU Usage: Before: 2.50% | After: 1.50%
-   🔸 Memory Usage: Before: 1059.29 MB | After: 1027.14 MB
-   🔸 Processing Time: 4.09 seconds
+   🔸 Preprocessing Time: 0.27 seconds
+   🔸 Transcription Time: 2.93 seconds
+   🔸 Total Processing Time: 3.20 seconds
+   🔸 CPU Usage: Before: 8.00% | After: 9.00%
+   🔸 Memory Usage: Before: 954.22 MB | After: 965.88 MB
 ==================================================
-🔹 A17.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A17.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.2
    🔸 WPM (Words Per Minute): 192.11
    🔸 Audio Duration: 7.81 seconds
    🔸 Word Count: 25
-   🔸 CPU Usage: Before: 4.50% | After: 6.00%
-   🔸 Memory Usage: Before: 1027.14 MB | After: 1041.75 MB
-   🔸 Processing Time: 4.64 seconds
+   🔸 Preprocessing Time: 0.28 seconds
+   🔸 Transcription Time: 3.33 seconds
+   🔸 Total Processing Time: 3.62 seconds
+   🔸 CPU Usage: Before: 6.00% | After: 8.00%
+   🔸 Memory Usage: Before: 965.88 MB | After: 954.22 MB
 ==================================================
-🔹 A15.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 168.98
+🔹 A15.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.21428571428571427
+   🔸 WPM (Words Per Minute): 168.99
    🔸 Audio Duration: 4.97 seconds
    🔸 Word Count: 14
-   🔸 CPU Usage: Before: 2.50% | After: 1.50%
-   🔸 Memory Usage: Before: 1041.75 MB | After: 1024.17 MB
-   🔸 Processing Time: 4.27 seconds
+   🔸 Preprocessing Time: 0.28 seconds
+   🔸 Transcription Time: 3.06 seconds
+   🔸 Total Processing Time: 3.34 seconds
+   🔸 CPU Usage: Before: 2.00% | After: 5.50%
+   🔸 Memory Usage: Before: 954.22 MB | After: 954.22 MB
 ==================================================
-🔹 A13.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 147.16
+🔹 A13.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.1111111111111111
+   🔸 WPM (Words Per Minute): 147.17
    🔸 Audio Duration: 3.67 seconds
    🔸 Word Count: 9
-   🔸 CPU Usage: Before: 4.00% | After: 3.50%
-   🔸 Memory Usage: Before: 1024.17 MB | After: 1038.71 MB
-   🔸 Processing Time: 4.14 seconds
+   🔸 Preprocessing Time: 0.25 seconds
+   🔸 Transcription Time: 3.00 seconds
+   🔸 Total Processing Time: 3.25 seconds
+   🔸 CPU Usage: Before: 5.00% | After: 8.50%
+   🔸 Memory Usage: Before: 954.22 MB | After: 965.95 MB
 ==================================================
-🔹 A19.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 142.77
+🔹 A19.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.6666666666666666
+   🔸 WPM (Words Per Minute): 149.90
    🔸 Audio Duration: 8.41 seconds
-   🔸 Word Count: 20
-   🔸 CPU Usage: Before: 2.00% | After: 1.00%
-   🔸 Memory Usage: Before: 1038.71 MB | After: 1000.74 MB
-   🔸 Processing Time: 4.42 seconds
+   🔸 Word Count: 21
+   🔸 Preprocessing Time: 0.29 seconds
+   🔸 Transcription Time: 3.32 seconds
+   🔸 Total Processing Time: 3.61 seconds
+   🔸 CPU Usage: Before: 5.00% | After: 1.50%
+   🔸 Memory Usage: Before: 965.95 MB | After: 962.99 MB
 ==================================================
-🔹 audio.mp3
+🔹 audio.mp3 (Real-Time)
    🔸 WPE (Word Per Error Rate): 0.1111111111111111
    🔸 WPM (Words Per Minute): 154.84
    🔸 Audio Duration: 3.49 seconds
    🔸 Word Count: 9
-   🔸 CPU Usage: Before: 4.50% | After: 7.10%
-   🔸 Memory Usage: Before: 1000.74 MB | After: 1038.71 MB
-   🔸 Processing Time: 4.10 seconds
+   🔸 Preprocessing Time: 0.25 seconds
+   🔸 Transcription Time: 2.92 seconds
+   🔸 Total Processing Time: 3.17 seconds
+   🔸 CPU Usage: Before: 8.50% | After: 4.00%
+   🔸 Memory Usage: Before: 962.99 MB | After: 974.49 MB
 ==================================================
-🔹 A6.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A6.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.8333333333333334
    🔸 WPM (Words Per Minute): 178.57
    🔸 Audio Duration: 4.03 seconds
    🔸 Word Count: 12
-   🔸 CPU Usage: Before: 1.00% | After: 1.00%
-   🔸 Memory Usage: Before: 1038.96 MB | After: 1062.37 MB
-   🔸 Processing Time: 4.17 seconds
+   🔸 Preprocessing Time: 0.26 seconds
+   🔸 Transcription Time: 2.99 seconds
+   🔸 Total Processing Time: 3.25 seconds
+   🔸 CPU Usage: Before: 4.00% | After: 2.00%
+   🔸 Memory Usage: Before: 974.49 MB | After: 965.98 MB
 ==================================================
-🔹 A9.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A9.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.08333333333333333
    🔸 WPM (Words Per Minute): 177.63
    🔸 Audio Duration: 4.05 seconds
    🔸 Word Count: 12
-   🔸 CPU Usage: Before: 5.00% | After: 4.00%
-   🔸 Memory Usage: Before: 1062.37 MB | After: 1065.24 MB
-   🔸 Processing Time: 4.21 seconds
+   🔸 Preprocessing Time: 0.28 seconds
+   🔸 Transcription Time: 3.01 seconds
+   🔸 Total Processing Time: 3.29 seconds
+   🔸 CPU Usage: Before: 8.60% | After: 4.50%
+   🔸 Memory Usage: Before: 965.98 MB | After: 960.06 MB
 ==================================================
-🔹 A25.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A25.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.8461538461538461
    🔸 WPM (Words Per Minute): 184.31
    🔸 Audio Duration: 8.79 seconds
    🔸 Word Count: 27
-   🔸 CPU Usage: Before: 1.50% | After: 3.50%
-   🔸 Memory Usage: Before: 1065.24 MB | After: 1065.27 MB
-   🔸 Processing Time: 4.64 seconds
+   🔸 Preprocessing Time: 0.29 seconds
+   🔸 Transcription Time: 3.40 seconds
+   🔸 Total Processing Time: 3.69 seconds
+   🔸 CPU Usage: Before: 8.50% | After: 8.00%
+   🔸 Memory Usage: Before: 960.06 MB | After: 974.60 MB
 ==================================================
-🔹 A10.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A10.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 1.0
    🔸 WPM (Words Per Minute): 139.08
    🔸 Audio Duration: 3.88 seconds
    🔸 Word Count: 9
-   🔸 CPU Usage: Before: 5.50% | After: 4.50%
-   🔸 Memory Usage: Before: 1065.27 MB | After: 1041.96 MB
-   🔸 Processing Time: 4.14 seconds
+   🔸 Preprocessing Time: 0.33 seconds
+   🔸 Transcription Time: 2.92 seconds
+   🔸 Total Processing Time: 3.25 seconds
+   🔸 CPU Usage: Before: 5.50% | After: 1.50%
+   🔸 Memory Usage: Before: 974.60 MB | After: 968.93 MB
 ==================================================
-🔹 A24.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A24.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.75
    🔸 WPM (Words Per Minute): 176.52
    🔸 Audio Duration: 10.20 seconds
    🔸 Word Count: 30
-   🔸 CPU Usage: Before: 7.00% | After: 5.60%
-   🔸 Memory Usage: Before: 1041.96 MB | After: 1033.29 MB
-   🔸 Processing Time: 4.71 seconds
+   🔸 Preprocessing Time: 0.30 seconds
+   🔸 Transcription Time: 3.50 seconds
+   🔸 Total Processing Time: 3.81 seconds
+   🔸 CPU Usage: Before: 8.50% | After: 1.00%
+   🔸 Memory Usage: Before: 968.93 MB | After: 968.84 MB
 ==================================================
-🔹 A1.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 95.49
+🔹 A1.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.8888888888888888
+   🔸 WPM (Words Per Minute): 116.75
    🔸 Audio Duration: 5.65 seconds
-   🔸 Word Count: 9
-   🔸 CPU Usage: Before: 11.50% | After: 3.50%
-   🔸 Memory Usage: Before: 1033.79 MB | After: 1065.80 MB
-   🔸 Processing Time: 4.23 seconds
+   🔸 Word Count: 11
+   🔸 Preprocessing Time: 0.27 seconds
+   🔸 Transcription Time: 3.00 seconds
+   🔸 Total Processing Time: 3.27 seconds
+   🔸 CPU Usage: Before: 10.10% | After: 6.00%
+   🔸 Memory Usage: Before: 968.96 MB | After: 954.33 MB
 ==================================================
-🔹 A7.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A7.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 1.6153846153846154
    🔸 WPM (Words Per Minute): 178.76
    🔸 Audio Duration: 5.03 seconds
    🔸 Word Count: 15
-   🔸 CPU Usage: Before: 12.60% | After: 5.50%
-   🔸 Memory Usage: Before: 1065.80 MB | After: 1065.80 MB
-   🔸 Processing Time: 4.12 seconds
+   🔸 Preprocessing Time: 0.27 seconds
+   🔸 Transcription Time: 3.12 seconds
+   🔸 Total Processing Time: 3.39 seconds
+   🔸 CPU Usage: Before: 9.50% | After: 1.00%
+   🔸 Memory Usage: Before: 954.33 MB | After: 977.93 MB
 ==================================================
-🔹 A5.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 155.17
+🔹 A5.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.625
+   🔸 WPM (Words Per Minute): 174.57
    🔸 Audio Duration: 3.09 seconds
-   🔸 Word Count: 8
-   🔸 CPU Usage: Before: 14.10% | After: 3.50%
-   🔸 Memory Usage: Before: 1065.80 MB | After: 1030.79 MB
-   🔸 Processing Time: 4.07 seconds
+   🔸 Word Count: 9
+   🔸 Preprocessing Time: 0.25 seconds
+   🔸 Transcription Time: 2.91 seconds
+   🔸 Total Processing Time: 3.15 seconds
+   🔸 CPU Usage: Before: 12.10% | After: 6.00%
+   🔸 Memory Usage: Before: 977.93 MB | After: 1012.75 MB
 ==================================================
-🔹 A8.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A8.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.5454545454545454
    🔸 WPM (Words Per Minute): 160.30
    🔸 Audio Duration: 4.12 seconds
    🔸 Word Count: 11
-   🔸 CPU Usage: Before: 13.60% | After: 10.90%
-   🔸 Memory Usage: Before: 1030.79 MB | After: 1062.99 MB
-   🔸 Processing Time: 4.08 seconds
+   🔸 Preprocessing Time: 0.28 seconds
+   🔸 Transcription Time: 3.01 seconds
+   🔸 Total Processing Time: 3.28 seconds
+   🔸 CPU Usage: Before: 3.50% | After: 4.50%
+   🔸 Memory Usage: Before: 954.42 MB | After: 1012.82 MB
 ==================================================
-🔹 A3.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A3.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.5
    🔸 WPM (Words Per Minute): 99.12
    🔸 Audio Duration: 4.84 seconds
    🔸 Word Count: 8
-   🔸 CPU Usage: Before: 15.00% | After: 11.10%
-   🔸 Memory Usage: Before: 1062.99 MB | After: 1039.70 MB
-   🔸 Processing Time: 4.05 seconds
+   🔸 Preprocessing Time: 0.27 seconds
+   🔸 Transcription Time: 2.94 seconds
+   🔸 Total Processing Time: 3.20 seconds
+   🔸 CPU Usage: Before: 9.60% | After: 7.00%
+   🔸 Memory Usage: Before: 1012.82 MB | After: 989.34 MB
 ==================================================
-🔹 A22.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 180.93
+🔹 A22.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.9166666666666666
+   🔸 WPM (Words Per Minute): 196.05
    🔸 Audio Duration: 7.96 seconds
-   🔸 Word Count: 24
-   🔸 CPU Usage: Before: 14.10% | After: 15.60%
-   🔸 Memory Usage: Before: 1039.70 MB | After: 1043.59 MB
-   🔸 Processing Time: 4.36 seconds
+   🔸 Word Count: 26
+   🔸 Preprocessing Time: 0.29 seconds
+   🔸 Transcription Time: 3.33 seconds
+   🔸 Total Processing Time: 3.61 seconds
+   🔸 CPU Usage: Before: 6.50% | After: 7.00%
+   🔸 Memory Usage: Before: 989.34 MB | After: 963.11 MB
 ==================================================
-🔹 A23.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 141.91
+🔹 A23.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 1.0869565217391304
+   🔸 WPM (Words Per Minute): 154.82
    🔸 Audio Duration: 9.30 seconds
-   🔸 Word Count: 22
-   🔸 CPU Usage: Before: 10.20% | After: 19.50%
-   🔸 Memory Usage: Before: 1043.59 MB | After: 1049.40 MB
-   🔸 Processing Time: 4.40 seconds
+   🔸 Word Count: 24
+   🔸 Preprocessing Time: 0.30 seconds
+   🔸 Transcription Time: 3.36 seconds
+   🔸 Total Processing Time: 3.66 seconds
+   🔸 CPU Usage: Before: 7.50% | After: 5.00%
+   🔸 Memory Usage: Before: 963.11 MB | After: 1009.83 MB
 ==================================================
-🔹 A4.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 80.36
+🔹 A4.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.125
+   🔸 WPM (Words Per Minute): 128.57
    🔸 Audio Duration: 3.73 seconds
-   🔸 Word Count: 5
-   🔸 CPU Usage: Before: 2.50% | After: 20.60%
-   🔸 Memory Usage: Before: 1049.40 MB | After: 1059.95 MB
-   🔸 Processing Time: 4.19 seconds
+   🔸 Word Count: 8
+   🔸 Preprocessing Time: 0.25 seconds
+   🔸 Transcription Time: 2.93 seconds
+   🔸 Total Processing Time: 3.17 seconds
+   🔸 CPU Usage: Before: 10.50% | After: 9.00%
+   🔸 Memory Usage: Before: 1009.83 MB | After: 963.21 MB
 ==================================================
-🔹 A20.mp3
-   🔸 WPE (Word Per Error Rate): N/A
-   🔸 WPM (Words Per Minute): 196.94
+🔹 A20.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.1935483870967742
+   🔸 WPM (Words Per Minute): 190.78
    🔸 Audio Duration: 9.75 seconds
-   🔸 Word Count: 32
-   🔸 CPU Usage: Before: 6.10% | After: 11.60%
-   🔸 Memory Usage: Before: 1059.95 MB | After: 1068.82 MB
-   🔸 Processing Time: 4.76 seconds
+   🔸 Word Count: 31
+   🔸 Preprocessing Time: 0.30 seconds
+   🔸 Transcription Time: 3.52 seconds
+   🔸 Total Processing Time: 3.82 seconds
+   🔸 CPU Usage: Before: 4.00% | After: 4.00%
+   🔸 Memory Usage: Before: 963.21 MB | After: 989.46 MB
 ==================================================
-🔹 A14.mp3
-   🔸 WPE (Word Per Error Rate): N/A
+🔹 A14.mp3 (Real-Time)
+   🔸 WPE (Word Per Error Rate): 0.1
    🔸 WPM (Words Per Minute): 164.47
    🔸 Audio Duration: 3.65 seconds
    🔸 Word Count: 10
-   🔸 CPU Usage: Before: 2.00% | After: 11.60%
-   🔸 Memory Usage: Before: 1068.82 MB | After: 1039.57 MB
-   🔸 Processing Time: 4.14 seconds
+   🔸 Preprocessing Time: 0.25 seconds
+   🔸 Transcription Time: 3.04 seconds
+   🔸 Total Processing Time: 3.29 seconds
+   🔸 CPU Usage: Before: 8.60% | After: 0.50%
+   🔸 Memory Usage: Before: 954.43 MB | After: 969.03 MB
+==================================================
+🔹 Batch Transcription Results
+==================================================
+🔹 A2.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.14285714285714285
+   🔸 WPM (Words Per Minute): 139.63
+   🔸 Audio Duration: 3.01 seconds
+   🔸 Word Count: 7
+   🔸 CPU Usage: Before: 11.00% | After: 6.60%
+   🔸 Memory Usage: Before: 1028.08 MB | After: 1039.71 MB
+   🔸 Processing Time: 3.89 seconds
+==================================================
+🔹 A18.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.24
+   🔸 WPM (Words Per Minute): 161.42
+   🔸 Audio Duration: 9.66 seconds
+   🔸 Word Count: 26
+   🔸 CPU Usage: Before: 3.00% | After: 2.00%
+   🔸 Memory Usage: Before: 1039.71 MB | After: 1039.65 MB
+   🔸 Processing Time: 4.40 seconds
+==================================================
+🔹 A16.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.17857142857142858
+   🔸 WPM (Words Per Minute): 186.61
+   🔸 Audio Duration: 9.00 seconds
+   🔸 Word Count: 28
+   🔸 CPU Usage: Before: 8.50% | After: 0.50%
+   🔸 Memory Usage: Before: 1039.65 MB | After: 1039.71 MB
+   🔸 Processing Time: 4.49 seconds
+==================================================
+🔹 A21.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.10714285714285714
+   🔸 WPM (Words Per Minute): 181.45
+   🔸 Audio Duration: 9.26 seconds
+   🔸 Word Count: 28
+   🔸 CPU Usage: Before: 7.60% | After: 5.50%
+   🔸 Memory Usage: Before: 1039.71 MB | After: 1039.72 MB
+   🔸 Processing Time: 4.45 seconds
+==================================================
+🔹 A12.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.14285714285714285
+   🔸 WPM (Words Per Minute): 120.78
+   🔸 Audio Duration: 3.48 seconds
+   🔸 Word Count: 7
+   🔸 CPU Usage: Before: 7.50% | After: 1.00%
+   🔸 Memory Usage: Before: 1039.72 MB | After: 1039.72 MB
+   🔸 Processing Time: 3.94 seconds
+==================================================
+🔹 A11.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.3
+   🔸 WPM (Words Per Minute): 158.90
+   🔸 Audio Duration: 3.78 seconds
+   🔸 Word Count: 10
+   🔸 CPU Usage: Before: 9.00% | After: 14.60%
+   🔸 Memory Usage: Before: 1039.72 MB | After: 1039.62 MB
+   🔸 Processing Time: 3.96 seconds
+==================================================
+🔹 A17.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.48
+   🔸 WPM (Words Per Minute): 207.48
+   🔸 Audio Duration: 7.81 seconds
+   🔸 Word Count: 27
+   🔸 CPU Usage: Before: 4.50% | After: 7.50%
+   🔸 Memory Usage: Before: 1039.62 MB | After: 1039.72 MB
+   🔸 Processing Time: 4.38 seconds
+==================================================
+🔹 A15.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.21428571428571427
+   🔸 WPM (Words Per Minute): 168.99
+   🔸 Audio Duration: 4.97 seconds
+   🔸 Word Count: 14
+   🔸 CPU Usage: Before: 5.50% | After: 12.60%
+   🔸 Memory Usage: Before: 1039.72 MB | After: 1036.95 MB
+   🔸 Processing Time: 4.06 seconds
+==================================================
+🔹 A13.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.1111111111111111
+   🔸 WPM (Words Per Minute): 147.17
+   🔸 Audio Duration: 3.67 seconds
+   🔸 Word Count: 9
+   🔸 CPU Usage: Before: 4.00% | After: 5.50%
+   🔸 Memory Usage: Before: 1036.95 MB | After: 1036.96 MB
+   🔸 Processing Time: 4.00 seconds
+==================================================
+🔹 A19.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.6666666666666666
+   🔸 WPM (Words Per Minute): 149.90
+   🔸 Audio Duration: 8.41 seconds
+   🔸 Word Count: 21
+   🔸 CPU Usage: Before: 10.10% | After: 9.00%
+   🔸 Memory Usage: Before: 1036.96 MB | After: 1039.66 MB
+   🔸 Processing Time: 4.31 seconds
+==================================================
+🔹 audio.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.1111111111111111
+   🔸 WPM (Words Per Minute): 154.84
+   🔸 Audio Duration: 3.49 seconds
+   🔸 Word Count: 9
+   🔸 CPU Usage: Before: 7.60% | After: 1.00%
+   🔸 Memory Usage: Before: 1039.66 MB | After: 1042.66 MB
+   🔸 Processing Time: 3.96 seconds
+==================================================
+🔹 A6.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.8333333333333334
+   🔸 WPM (Words Per Minute): 178.57
+   🔸 Audio Duration: 4.03 seconds
+   🔸 Word Count: 12
+   🔸 CPU Usage: Before: 11.10% | After: 2.50%
+   🔸 Memory Usage: Before: 1042.66 MB | After: 1036.96 MB
+   🔸 Processing Time: 4.05 seconds
+==================================================
+🔹 A9.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.08333333333333333
+   🔸 WPM (Words Per Minute): 177.63
+   🔸 Audio Duration: 4.05 seconds
+   🔸 Word Count: 12
+   🔸 CPU Usage: Before: 11.10% | After: 3.50%
+   🔸 Memory Usage: Before: 1036.96 MB | After: 1039.68 MB
+   🔸 Processing Time: 4.05 seconds
+==================================================
+🔹 A25.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.8461538461538461
+   🔸 WPM (Words Per Minute): 184.31
+   🔸 Audio Duration: 8.79 seconds
+   🔸 Word Count: 27
+   🔸 CPU Usage: Before: 4.00% | After: 6.50%
+   🔸 Memory Usage: Before: 1039.68 MB | After: 1048.61 MB
+   🔸 Processing Time: 4.49 seconds
+==================================================
+🔹 A10.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.875
+   🔸 WPM (Words Per Minute): 139.08
+   🔸 Audio Duration: 3.88 seconds
+   🔸 Word Count: 9
+   🔸 CPU Usage: Before: 2.50% | After: 6.00%
+   🔸 Memory Usage: Before: 1048.61 MB | After: 1039.73 MB
+   🔸 Processing Time: 3.95 seconds
+==================================================
+🔹 A24.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.75
+   🔸 WPM (Words Per Minute): 176.52
+   🔸 Audio Duration: 10.20 seconds
+   🔸 Word Count: 30
+   🔸 CPU Usage: Before: 3.00% | After: 4.00%
+   🔸 Memory Usage: Before: 1039.73 MB | After: 1039.67 MB
+   🔸 Processing Time: 4.50 seconds
+==================================================
+🔹 A1.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 1.4444444444444444
+   🔸 WPM (Words Per Minute): 116.75
+   🔸 Audio Duration: 5.65 seconds
+   🔸 Word Count: 11
+   🔸 CPU Usage: Before: 8.50% | After: 4.00%
+   🔸 Memory Usage: Before: 1039.67 MB | After: 1042.73 MB
+   🔸 Processing Time: 4.02 seconds
+==================================================
+🔹 A7.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 1.6923076923076923
+   🔸 WPM (Words Per Minute): 178.76
+   🔸 Audio Duration: 5.03 seconds
+   🔸 Word Count: 15
+   🔸 CPU Usage: Before: 1.50% | After: 3.50%
+   🔸 Memory Usage: Before: 1042.73 MB | After: 1036.97 MB
+   🔸 Processing Time: 4.11 seconds
+==================================================
+🔹 A5.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.375
+   🔸 WPM (Words Per Minute): 155.17
+   🔸 Audio Duration: 3.09 seconds
+   🔸 Word Count: 8
+   🔸 CPU Usage: Before: 4.00% | After: 5.50%
+   🔸 Memory Usage: Before: 1036.97 MB | After: 1039.73 MB
+   🔸 Processing Time: 3.96 seconds
+==================================================
+🔹 A8.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.5454545454545454
+   🔸 WPM (Words Per Minute): 160.30
+   🔸 Audio Duration: 4.12 seconds
+   🔸 Word Count: 11
+   🔸 CPU Usage: Before: 1.50% | After: 2.50%
+   🔸 Memory Usage: Before: 1039.73 MB | After: 1036.88 MB
+   🔸 Processing Time: 4.05 seconds
+==================================================
+🔹 A3.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.5
+   🔸 WPM (Words Per Minute): 99.12
+   🔸 Audio Duration: 4.84 seconds
+   🔸 Word Count: 8
+   🔸 CPU Usage: Before: 4.00% | After: 5.00%
+   🔸 Memory Usage: Before: 1036.88 MB | After: 1036.91 MB
+   🔸 Processing Time: 3.96 seconds
+==================================================
+🔹 A22.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.9166666666666666
+   🔸 WPM (Words Per Minute): 196.05
+   🔸 Audio Duration: 7.96 seconds
+   🔸 Word Count: 26
+   🔸 CPU Usage: Before: 2.00% | After: 2.50%
+   🔸 Memory Usage: Before: 1036.91 MB | After: 1039.75 MB
+   🔸 Processing Time: 4.34 seconds
+==================================================
+🔹 A23.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 1.0869565217391304
+   🔸 WPM (Words Per Minute): 154.82
+   🔸 Audio Duration: 9.30 seconds
+   🔸 Word Count: 24
+   🔸 CPU Usage: Before: 3.00% | After: 6.00%
+   🔸 Memory Usage: Before: 1039.75 MB | After: 1039.75 MB
+   🔸 Processing Time: 4.31 seconds
+==================================================
+🔹 A4.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 1.125
+   🔸 WPM (Words Per Minute): 128.57
+   🔸 Audio Duration: 3.73 seconds
+   🔸 Word Count: 8
+   🔸 CPU Usage: Before: 1.50% | After: 9.00%
+   🔸 Memory Usage: Before: 1039.75 MB | After: 1039.66 MB
+   🔸 Processing Time: 3.96 seconds
+==================================================
+🔹 A20.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.1935483870967742
+   🔸 WPM (Words Per Minute): 190.78
+   🔸 Audio Duration: 9.75 seconds
+   🔸 Word Count: 31
+   🔸 CPU Usage: Before: 4.00% | After: 11.10%
+   🔸 Memory Usage: Before: 1039.66 MB | After: 1039.75 MB
+   🔸 Processing Time: 4.46 seconds
+==================================================
+🔹 A14.mp3 (Batch)
+   🔸 WPE (Word Per Error Rate): 0.1
+   🔸 WPM (Words Per Minute): 164.47
+   🔸 Audio Duration: 3.65 seconds
+   🔸 Word Count: 10
+   🔸 CPU Usage: Before: 5.50% | After: 7.50%
+   🔸 Memory Usage: Before: 1039.75 MB | After: 1036.89 MB
+   🔸 Processing Time: 3.95 seconds
 ==================================================

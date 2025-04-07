@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, how did your time at the University of California Berkeley shape your career?
+
+WPM: 168.99
+WPE: 0.21428571428571427
+Preprocessing Time: 0.28s
+Transcription Time: 3.06s
+Total Processing Time: 3.34s

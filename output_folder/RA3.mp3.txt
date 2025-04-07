@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, how does you contribute to quantum mechanics?
+
+WPM: 99.12
+WPE: 0.5
+Preprocessing Time: 0.27s
+Transcription Time: 2.94s
+Total Processing Time: 3.20s

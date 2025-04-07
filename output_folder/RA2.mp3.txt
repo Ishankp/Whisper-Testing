@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, where were you born and raised?
+
+WPM: 139.63
+WPE: 0.14285714285714285
+Preprocessing Time: 0.25s
+Transcription Time: 3.15s
+Total Processing Time: 3.39s

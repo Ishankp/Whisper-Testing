@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, what was your role in the Atomic Energy Commission?
+
+WPM: 164.47
+WPE: 0.1
+Preprocessing Time: 0.25s
+Transcription Time: 3.04s
+Total Processing Time: 3.29s

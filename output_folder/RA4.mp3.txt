@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, what was your relationship with Albert Einstein?
+
+WPM: 128.57
+WPE: 0.125
+Preprocessing Time: 0.25s
+Transcription Time: 2.93s
+Total Processing Time: 3.17s

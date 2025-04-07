@@ -1,0 +1,8 @@
+Transcription:
+ Openheimer, when you famously quoted, now I am become death, the destroyer of worlds. What were you feeling at that moment and how do you think history has interpreted your words?
+
+WPM: 190.78
+WPE: 0.1935483870967742
+Preprocessing Time: 0.30s
+Transcription Time: 3.52s
+Total Processing Time: 3.82s

@@ -1,5 +1,5 @@
 Transcription:
- Oppenheimer, always your education journey like.
+ Oppenheimer, what was your educational journey like?
 
-WPM: 103.53
-WPE: N/A
+WPM: 120.78
+WPE: 0.14285714285714285

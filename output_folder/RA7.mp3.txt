@@ -1,0 +1,8 @@
+Transcription:
+ Open Heimer, how did you review the nuclear weapons change after a photo of 2?
+
+WPM: 178.76
+WPE: 1.6153846153846154
+Preprocessing Time: 0.27s
+Transcription Time: 3.12s
+Total Processing Time: 3.39s

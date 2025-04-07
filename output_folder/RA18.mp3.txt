@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, how did you involvement in the leftist political circles before and during World War II lead to increased government scrutiny and accusations of communist sympathies?
+
+WPM: 161.42
+WPE: 0.24
+Preprocessing Time: 0.31s
+Transcription Time: 3.34s
+Total Processing Time: 3.65s

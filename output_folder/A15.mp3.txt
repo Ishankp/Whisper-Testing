@@ -1,5 +1,5 @@
 Transcription:
- Oppenheimer, how did you time at the University of California Berkeley? Shape your career.
+ Oppenheimer, how did your time at the University of California Berkeley shape your career?
 
-WPM: 168.98
-WPE: N/A
+WPM: 168.99
+WPE: 0.21428571428571427

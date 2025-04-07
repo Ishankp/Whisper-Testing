@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, who are your key collaborators on the Manhattan Project?
+
+WPM: 158.90
+WPE: 0.3
+Preprocessing Time: 0.27s
+Transcription Time: 2.93s
+Total Processing Time: 3.20s

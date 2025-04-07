@@ -1,0 +1,8 @@
+Transcription:
+ Oppenheimer, how did your leadership style influence the scientists working on a Manhattan project? And what challenges did you face in managing such massive and secretive undertaking?
+
+WPM: 179.95
+WPE: 0.25
+Preprocessing Time: 0.29s
+Transcription Time: 3.45s
+Total Processing Time: 3.74s
